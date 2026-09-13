@@ -6,7 +6,7 @@
 
 My work connects user insights, overseas community operations, and AI-assisted content creation. This portfolio shares the questions I explored, the work I contributed, and the outputs I helped deliver.
 
-[项目案例](projects/index.md) · [运营报告](reports/README.md) · [LinkedIn](https://www.linkedin.com/in/xinyue-wei-98178338a/) · [GitHub 主页](https://github.com/vickywei-999)
+[项目案例](projects/index.md) · [分析报告](reports/README.md) · [LinkedIn](https://www.linkedin.com/in/xinyue-wei-98178338a/) · [GitHub 主页](https://github.com/vickywei-999)
 
 ## 关于我
 
@@ -45,6 +45,20 @@ My work connects user insights, overseas community operations, and AI-assisted c
 | [打开 PDF 文件](reports/hok-player-reactivation/report.pdf) | 排版后的独立报告，可通过文件页下载 |
 | [报告导航](reports/README.md) | 报告主题、类型与阅读入口 |
 
+## 市场与竞品分析报告
+
+### 兰博基尼竞品分析
+
+**兰博基尼在超豪华跑车市场里，到底站在什么位置？**
+
+这份本科阶段完成的市场分析把兰博基尼放在奢侈品市场中观察：先界定市场分层，再识别真正的竞争对手，然后从品牌定位、目标客群、产品特点、价格区间和销量份额五个维度做横向对比。报告用公开的 2022 财年数据说明，兰博基尼的销量规模很大程度由 SUV 车型 Urus 支撑；如果只看双座超跑，它与法拉利仍有明显差距。所有数据来源均可在文末核对。
+
+| 阅读方式 | 内容 |
+| --- | --- |
+| [在线阅读全文](reports/lamborghini-competitive-analysis/README.md) | 适合浏览器和手机阅读的完整文章 |
+| [打开 PDF 文件](reports/lamborghini-competitive-analysis/report.pdf) | 排版后的独立报告，可通过文件页下载 |
+| [报告导航](reports/README.md) | 报告主题、类型与阅读入口 |
+
 ## 照片与报告预览
 
 <img src="assets/photos/portrait.jpg" width="128" alt="魏欣悦 Vicky Wei 个人照片">&nbsp;&nbsp;&nbsp;<a href="reports/hok-player-reactivation/README.md"><img src="assets/previews/hok-report.png" width="280" alt="王者荣耀赛事观众回流运营分析报告首页预览"></a>
@@ -61,10 +75,13 @@ operations-portfolio/
 │   ├── index.md                    # 10 个案例索引
 │   └── <project-name>.md           # 背景、职责、方法与成果
 ├── reports/
-│   ├── README.md                   # 运营分析报告导航
-│   └── hok-player-reactivation/
-│       ├── README.md               # 在线阅读全文
-│       └── report.pdf              # 预览与下载
+│   ├── README.md                       # 分析报告导航
+│   ├── hok-player-reactivation/         # 运营分析
+│   │   ├── README.md                   # 在线阅读全文
+│   │   └── report.pdf                  # 预览与下载
+│   └── lamborghini-competitive-analysis/  # 市场与竞品分析
+│       ├── README.md                   # 在线阅读全文
+│       └── report.pdf                  # 预览与下载
 └── assets/
     ├── photos/portrait.jpg         # 个人照片
     └── previews/hok-report.png     # 报告首页预览
