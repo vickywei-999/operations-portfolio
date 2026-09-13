@@ -31,20 +31,6 @@ My work connects user insights, overseas community operations, and AI-assisted c
 | [Chuangmei 视觉设计](projects/chuangmei-visual-design.md) | 广告传播中的视觉表达 | 设计需求理解、视觉素材制作与调整 | 平面设计与协作交付实践 |
 | [英语学习支持](projects/english-learning-support.md) | 学习者的语言理解与练习需求 | 教学准备、沟通与学习支持 | 教学表达和服务流程实践 |
 
-## 运营分析报告
-
-### 从看比赛到再玩一局
-
-**一个能看懂决赛、却不愿重新开局的老玩家，需要怎样的回归路径？**
-
-这份分析从“为什么愿意看比赛，却不愿再玩一局”出发，核对公开数据，说明目前的工作进展、玩家可能遇到的问题，以及三项改进建议。文章逐项解释点击、回访、完成游戏和再次参与的计算方法，并说明怎样比较两种做法。方案尚未实际运行，业务效果仍需验证。
-
-| 阅读方式 | 内容 |
-| --- | --- |
-| [在线阅读全文](reports/hok-player-reactivation/README.md) | 适合浏览器和手机阅读的完整文章 |
-| [打开 PDF 文件](reports/hok-player-reactivation/report.pdf) | 排版后的独立报告，可通过文件页下载 |
-| [报告导航](reports/README.md) | 报告主题、类型与阅读入口 |
-
 ## 市场与竞品分析报告
 
 ### 兰博基尼竞品分析
@@ -73,11 +59,19 @@ My work connects user insights, overseas community operations, and AI-assisted c
 | [打开 PDF 文件](reports/aigc-character-workflow-sop/report.pdf) | 排版后的独立文档，含脱敏角色形象示意 |
 | [报告与流程导航](reports/README.md) | 文档主题、类型与阅读入口 |
 
-## 照片与报告预览
+## 运营分析报告
 
-<img src="assets/photos/portrait.jpg" width="128" alt="魏欣悦 Vicky Wei 个人照片">&nbsp;&nbsp;&nbsp;<a href="reports/hok-player-reactivation/README.md"><img src="assets/previews/hok-report.png" width="280" alt="王者荣耀赛事观众回流运营分析报告首页预览"></a>
+### 从看比赛到再玩一局
 
-[查看照片](assets/photos/portrait.jpg) · [打开完整报告](reports/hok-player-reactivation/README.md)
+**一个能看懂决赛、却不愿重新开局的老玩家，需要怎样的回归路径？**
+
+这份分析从“为什么愿意看比赛，却不愿再玩一局”出发，核对公开数据，说明目前的工作进展、玩家可能遇到的问题，以及三项改进建议。文章逐项解释点击、回访、完成游戏和再次参与的计算方法，并说明怎样比较两种做法。方案尚未实际运行，业务效果仍需验证。
+
+| 阅读方式 | 内容 |
+| --- | --- |
+| [在线阅读全文](reports/hok-player-reactivation/README.md) | 适合浏览器和手机阅读的完整文章 |
+| [打开 PDF 文件](reports/hok-player-reactivation/report.pdf) | 排版后的独立报告，可通过文件页下载 |
+| [报告导航](reports/README.md) | 报告主题、类型与阅读入口 |
 
 ## 目录导航
 
