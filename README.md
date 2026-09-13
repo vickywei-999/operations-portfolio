@@ -6,7 +6,7 @@
 
 My work connects user insights, overseas community operations, and AI-assisted content creation. This portfolio shares the questions I explored, the work I contributed, and the outputs I helped deliver.
 
-[项目案例](projects/index.md) · [分析报告](reports/README.md) · [LinkedIn](https://www.linkedin.com/in/xinyue-wei-98178338a/) · [GitHub 主页](https://github.com/vickywei-999)
+[项目案例](projects/index.md) · [报告与流程](reports/README.md) · [LinkedIn](https://www.linkedin.com/in/xinyue-wei-98178338a/) · [GitHub 主页](https://github.com/vickywei-999)
 
 ## 关于我
 
@@ -59,6 +59,20 @@ My work connects user insights, overseas community operations, and AI-assisted c
 | [打开 PDF 文件](reports/lamborghini-competitive-analysis/report.pdf) | 排版后的独立报告，可通过文件页下载 |
 | [报告导航](reports/README.md) | 报告主题、类型与阅读入口 |
 
+## AIGC 角色内容工作流
+
+### 从 Persona 到迭代：一份可复用的 SOP
+
+**角色为什么会「人不人」？一套流程能不能解决同一个问题两遍？**
+
+这份方法文档来自 AIMON 项目的实践：把「角色人格一致、语言与动作匹配、生成稳定」这三类反复出现的问题，整理成五个阶段的流程——Persona 设定、分镜拆解、AIGC 生成、质量检查、迭代与沉淀。每个阶段都写明输入、关键动作、输出和完成标准，并附一份换新角色开工前的自检清单。文中交互示例经过脱敏，不含内部 Prompt 与未公开素材。
+
+| 阅读方式 | 内容 |
+| --- | --- |
+| [在线阅读全文](reports/aigc-character-workflow-sop/README.md) | 适合浏览器和手机阅读的完整文档 |
+| [打开 PDF 文件](reports/aigc-character-workflow-sop/report.pdf) | 排版后的独立文档，含脱敏角色形象示意 |
+| [报告与流程导航](reports/README.md) | 文档主题、类型与阅读入口 |
+
 ## 照片与报告预览
 
 <img src="assets/photos/portrait.jpg" width="128" alt="魏欣悦 Vicky Wei 个人照片">&nbsp;&nbsp;&nbsp;<a href="reports/hok-player-reactivation/README.md"><img src="assets/previews/hok-report.png" width="280" alt="王者荣耀赛事观众回流运营分析报告首页预览"></a>
@@ -75,16 +89,21 @@ operations-portfolio/
 │   ├── index.md                    # 10 个案例索引
 │   └── <project-name>.md           # 背景、职责、方法与成果
 ├── reports/
-│   ├── README.md                       # 分析报告导航
+│   ├── README.md                       # 报告与流程文档导航
 │   ├── hok-player-reactivation/         # 运营分析
 │   │   ├── README.md                   # 在线阅读全文
 │   │   └── report.pdf                  # 预览与下载
-│   └── lamborghini-competitive-analysis/  # 市场与竞品分析
+│   ├── lamborghini-competitive-analysis/  # 市场与竞品分析
+│   │   ├── README.md                   # 在线阅读全文
+│   │   └── report.pdf                  # 预览与下载
+│   └── aigc-character-workflow-sop/    # AIGC 工作流方法文档
 │       ├── README.md                   # 在线阅读全文
 │       └── report.pdf                  # 预览与下载
 └── assets/
-    ├── photos/portrait.jpg         # 个人照片
-    └── previews/hok-report.png     # 报告首页预览
+    ├── photos/portrait.jpg             # 个人照片
+    └── previews/                       # 报告首页与脱敏角色图预览
+        ├── hok-report.png
+        └── aimon-characters-masked.png
 ```
 
 本作品集由个人经历与分析作品整理。项目页面聚焦本人贡献和可展示的交付，报告中的策略建议与实施成果分别说明。涉及第三方产品和品牌的名称用于描述项目背景。
