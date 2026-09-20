@@ -25,7 +25,7 @@ My work connects user insights, overseas community operations, and AI-assisted c
 | [AIMON 角色内容与交互](projects/aimon-character-interaction.md) | AI 互动硬件中的角色体验 | Persona、结构化 Prompt、回应规则与动作内容 | 角色设定、交互流程和动态内容制作方法 |
 | [Lamborghini 用户与竞品洞察](projects/lamborghini-user-competitor-insights.md) | 多伦多授权经销商的品牌沟通 | 汇总用户反馈，观察竞品内容与活动 | 用户需求分类、内容洞察与优化建议 |
 | [南京虎虎小红书内容](projects/nanjing-huhu-xiaohongshu-content.md) | 品牌在内容平台的表达与触达 | 选题、撰写、发布、审核与复盘 | 完成 17 篇笔记及持续选题优化 |
-| [北京点金石 KOL 媒介合作](projects/beijing-dianjinshi-kol-media.md) | 品牌与内容创作者的合作执行 | KOL 筛选、合作沟通、脚本和发布跟进 | 创作者适配判断、内容修改与投放复盘支持 |
+| [北京点金石 抖音素人 KOC 招募与投放](projects/beijing-dianjinshi-kol-media.md) | 抖音素人 KOC 招募、UGC 内容投放与项目结算 | 达人筛选与私域承接、内容策划与剪辑审核、投放台账与结算 | 累计触达并招募 500+ 位 KOC，覆盖 12 家门店、8 个城市；月均产出并发布 230 条投放视频，内容月均曝光约 200 万 |
 | [C Valley 留学生社区](projects/c-valley-student-community.md) | 留学生的信息与文化适应需求 | 社区内容规划、账号运营和表现跟踪 | 面向目标人群的内容与发布节奏优化 |
 | [阿尔伯塔大学校园活动](projects/alberta-student-events.md) | 学生组织的文化、学术与社交活动 | 流程、物资、预算、志愿者与宣传协调 | 活动执行与跨组织协作经验 |
 | [Chuangmei 视觉设计](projects/chuangmei-visual-design.md) | 广告传播中的视觉表达 | 设计需求理解、视觉素材制作与调整 | 平面设计与协作交付实践 |
